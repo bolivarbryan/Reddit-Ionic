@@ -3,7 +3,7 @@
 
    app.controller('RedditCtrl',function($scope,$http){
     $scope.posts=[];
-    $http.get('https://www.reddit.com/.json')
+    $http.get('https://www.reddit.com/r/gaming/.json')
       .success(function(data){
         console.log(data.data.children);
         $scope.posts=data.data.children;
