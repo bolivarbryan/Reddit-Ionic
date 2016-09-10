@@ -232,7 +232,7 @@
 				LastUpgradeCheck = 510;
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
-						DevelopmentTeam = Y76AN85258;
+						DevelopmentTeam = K87XPR878Y;
 					};
 				};
 			};
@@ -350,7 +350,7 @@
 				INFOPLIST_FILE = "my-reddit/my-reddit-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.app.bolivarbryan.flyers;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.bolivarbryan.reddit;
 				PRODUCT_NAME = "my-reddit";
 				PROVISIONING_PROFILE = "";
 			};
@@ -374,7 +374,7 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "my-reddit/my-reddit-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.app.bolivarbryan.flyers;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.bolivarbryan.reddit;
 				PRODUCT_NAME = "my-reddit";
 				PROVISIONING_PROFILE = "";
 			};
